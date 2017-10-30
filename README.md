@@ -20,3 +20,5 @@ Failure models were also implemented in this project and can be run as follows:
   - where our parameter for analyzing failure of nodes is percentage of total failed nodes in network (1-80%) 
 
 Largest network   we were able to deal with for our protocol : 10000 nodes  Average number of hops for 10000 nodes = 3.22
+
+![alt text](https://github.com/mohitisrani/DOS-Pastry-Protocol-Implementation/blob/master/Capture.PNG "Analysis of Pastry Protocol for different number of nodes.")
